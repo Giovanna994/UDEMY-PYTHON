@@ -55,6 +55,8 @@ O curso aborda a linguagem Python do básico ao avançado, combinando teoria, bo
 ---
 
 ## 📂 Futura Estrutura do Repositório
+
+```text
 .
 ├── 01-fundamentos/          # Lógica, tipos de dados e estruturas de controle
 ├── 02-estruturas-de-dados/  # Listas, dicionários, tuplas e sets
